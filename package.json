@@ -1,20 +1,28 @@
 {
-	"name": "two-sum-indices",
-	"version": "1.0.0",
-	"description": "Find indices of two numbers in an array that add up to a target sum.",
-	"main": "twoSum.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [
-		"two-sum",
-		"indices",
-		"array",
-		"target-sum"
-	],
-	"author": "Your Name",
-	"license": "MIT",
-	"dependencies": {
-		"lodash": "^4.17.21"
-	}
+  "name": "two-sum-indices",
+  "version": "1.0.0",
+  "description": "Find indices of two numbers in an array that add up to a target sum.",
+  "main": "twoSum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "two-sum",
+    "indices",
+    "array",
+    "target-sum"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adty404/two-sum-indices.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adty404/two-sum-indices/issues"
+  },
+  "homepage": "https://github.com/adty404/two-sum-indices#readme"
 }
