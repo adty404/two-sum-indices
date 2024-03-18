@@ -1,6 +1,6 @@
 {
   "name": "two-sum-indices",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find indices of two numbers in an array that add up to a target sum.",
   "main": "twoSum.js",
   "scripts": {
@@ -15,7 +15,8 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "@pakforlay/add-watermark": "1.0.26"
   },
   "repository": {
     "type": "git",

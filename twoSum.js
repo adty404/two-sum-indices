@@ -25,4 +25,5 @@ function twoSum(nums, target) {
 
 	// If no such indices are found, return an empty array
 	return [];
+	
 }
